@@ -11,6 +11,7 @@ Start Date 29-06-2021 and End Date 17-July- 2021
 
 # Day2 Agenda
 **Data Analysis Using Numpy**
+- Numpy [Official Web site](https://numpy.org/doc/stable/)
 - recorded Session Link [30-06-2021](https://transcripts.gotomeeting.com/#/s/7a26074f5585b3fe9bc8587703d76a27e66328a2750ae2307e775d52de3f72b5)
 
 # Day3 Agenda
