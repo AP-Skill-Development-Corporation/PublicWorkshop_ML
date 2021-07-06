@@ -19,15 +19,15 @@ Start Date 29-06-2021 and End Date 17-July- 2021
 -  recorded Session Link [1-07-2021](https://transcripts.gotomeeting.com/#/s/1930463b04560729fcd363b2a5aadd6a5df2afa71b37c15eda33c5aa40f30031)
 
 # Day4
-- Recorded Sessiom Link[2-07-2021](https://transcripts.gotomeeting.com/#/s/0446958ea58090535e9e9e2a3c52710676c7e8c8df2042c4340a2c73b20624af)
+- Recorded Sessiom Link [2-07-2021](https://transcripts.gotomeeting.com/#/s/0446958ea58090535e9e9e2a3c52710676c7e8c8df2042c4340a2c73b20624af)
 
 # Day5
 - Preprocessing
 - Encoding Techniques
-- Recorded Session Link[3-07-2021](https://transcripts.gotomeeting.com/#/s/4cd893f7916c7c087b647daa99775eda381366eb0dd4ebf735772f9a8f690216)
+- Recorded Session Link [3-07-2021](https://transcripts.gotomeeting.com/#/s/4cd893f7916c7c087b647daa99775eda381366eb0dd4ebf735772f9a8f690216)
 
 # Day6
 - Preprocessing Continuation
 - Scalling Techniques
 - Matplotlib Library
-- Recorded Session Link[5-07-2021](https://transcripts.gotomeeting.com/#/s/6e62357679d3c11e402446136c3a554e1bfe429fc911cc7aeeda48f4fbdca9db)
+- Recorded Session Link [5-07-2021](https://transcripts.gotomeeting.com/#/s/6e62357679d3c11e402446136c3a554e1bfe429fc911cc7aeeda48f4fbdca9db)
