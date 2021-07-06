@@ -29,5 +29,5 @@ Start Date 29-06-2021 and End Date 17-July- 2021
 # Day6
 - Preprocessing Continuation
 - Scalling Techniques
-- Matplotlib Library
+- Matplotlib Library ([Official Website](https://matplotlib.org/))
 - Recorded Session Link [5-07-2021](https://transcripts.gotomeeting.com/#/s/6e62357679d3c11e402446136c3a554e1bfe429fc911cc7aeeda48f4fbdca9db)
