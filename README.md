@@ -23,11 +23,12 @@ Start Date 29-06-2021 and End Date 17-July- 2021
 
 # Day5
 - Preprocessing
+- Introduction to Scikit Learn [Official Website](https://scikit-learn.org/stable/)
 - Encoding Techniques
 - Recorded Session Link [3-07-2021](https://transcripts.gotomeeting.com/#/s/4cd893f7916c7c087b647daa99775eda381366eb0dd4ebf735772f9a8f690216)
 
 # Day6
 - Preprocessing Continuation
 - Scalling Techniques
-- Matplotlib Library ([Official Website](https://matplotlib.org/))
+- Matplotlib Library [Official Website](https://matplotlib.org/)
 - Recorded Session Link [5-07-2021](https://transcripts.gotomeeting.com/#/s/6e62357679d3c11e402446136c3a554e1bfe429fc911cc7aeeda48f4fbdca9db)
