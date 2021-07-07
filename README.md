@@ -32,3 +32,15 @@ Start Date 29-06-2021 and End Date 17-July- 2021
 - Scalling Techniques
 - Matplotlib Library [Official Website](https://matplotlib.org/)
 - Recorded Session Link [5-07-2021](https://transcripts.gotomeeting.com/#/s/a895dde48e91a588e661913d7f374186a6e4a50b8e663017262e35e6e1372332)
+
+
+# Day7
+- Data Visualization using Seaborn
+
+    * Seaborn is a Python data visualization library based on matplotlib
+    * It provides a high-level interface for drawing attractive and informative statistical graphics
+    * Applications - used in visualising data in Machine learning, data Science 
+    
+[seaborn official_docs](https://seaborn.pydata.org/)
+
+- Recorded Session link [7-7-2021]()
