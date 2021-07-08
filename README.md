@@ -33,8 +33,11 @@ Start Date 29-06-2021 and End Date 17-July- 2021
 - Matplotlib Library [Official Website](https://matplotlib.org/)
 - Recorded Session Link [5-07-2021](https://transcripts.gotomeeting.com/#/s/a895dde48e91a588e661913d7f374186a6e4a50b8e663017262e35e6e1372332)
 
-
 # Day7
+- Recorded Session Link [6-07-2021](https://transcripts.gotomeeting.com/#/s/db5f19b452ba01f25a50a83ddd8d19063cd33e5333ad33230f9c075d703fd753)
+
+
+# Day8
 - Data Visualization using Seaborn
 
     * Seaborn is a Python data visualization library based on matplotlib
@@ -43,4 +46,4 @@ Start Date 29-06-2021 and End Date 17-July- 2021
     
 [seaborn official_docs](https://seaborn.pydata.org/)
 
-- Recorded Session link [7-7-2021]()
+- Recorded Session link [7-7-2021](https://transcripts.gotomeeting.com/#/s/be6e323410cf36851600c26a8b98f8e4929badaf41ff8fcd69198cee5f30cf1c)
