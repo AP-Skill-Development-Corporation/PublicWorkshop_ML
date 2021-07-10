@@ -47,3 +47,41 @@ Start Date 29-06-2021 and End Date 17-July- 2021
 [seaborn official_docs](https://seaborn.pydata.org/)
 
 - Recorded Session link [7-7-2021](https://transcripts.gotomeeting.com/#/s/be6e323410cf36851600c26a8b98f8e4929badaf41ff8fcd69198cee5f30cf1c)
+
+
+
+# Day9
+- Recorded Session link [8-7-2021](https://transcripts.gotomeeting.com/#/s/c26bb8b7fe346a5846ba0b1d5fea4ab74d400ab118fbd09c7f151762d2bdac89)
+
+# Day10
+
+- Recorded Session link [9-7-2021](https://transcripts.gotomeeting.com/#/s/568660d241e3055d0dee51d8a8a3f926c0b0d84d8a97dd156b9c234d8bb15bef)
+
+# Day11
+
+### Polynomial Features
+Polynomial provides the best approximation of the relationship between the dependent and independent variable. A Broad range of function can be fit under it. Polynomial basically fits a wide range of curvature.
+
+[LINK](https://towardsdatascience.com/introduction-to-linear-regression-and-polynomial-regression-f8adc96f31cb)
+
+**Advantages of using Polynomial Regression:**
+
+- Polynomial provides the best approximation of the relationship between the dependent and independent variable.
+- A Broad range of function can be fit under it.
+- Polynomial basically fits a wide range of curvature.
+
+**Disadvantages:**
+
+- The presence of one or two outliers in the data can seriously affect the results of the nonlinear analysis.
+- These are too sensitive to the outliers.
+- In addition, there are unfortunately fewer model validation tools for the detection of outliers in nonlinear regression than there are for linear regression.
+- 
+- Recorded Session link [10-7-2021]()
+
+
+
+
+
+
+
+
